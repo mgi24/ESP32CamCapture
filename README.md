@@ -1,7 +1,7 @@
 How to use:
 1. Open with arduino ide
 2. import library ESP32
-3. import library ESPAsyncWebServer
+3. import library ESPAsyncWebServer https://github.com/me-no-dev/ESPAsyncWebServer
 4. flash like usual
 5. open http://private ip:8000 to start recording
 6. don't forget to put sd card before start recording
