@@ -8,3 +8,5 @@ How to use:
 
 alert: for some reason the connection is really slow at AP mode, probably because i turn on both access point and client mode at the same time, but recording performance ot affected by this
 max recording at 0.5FPS, tested on generic 2GB SD Card, and not affected by change on resolution, maybe speed limitation on writing a new file.
+
+Update: just delete the AP mode if you want faster wifi performance
